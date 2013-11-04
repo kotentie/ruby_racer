@@ -1,0 +1,14 @@
+body {
+  background-color: deeppink;
+}
+
+td {
+  border: solid 1px gray;
+  color: pink;
+  width: 20px;
+  height: 20px;
+}
+
+td.active {
+  background-color: white;
+}
